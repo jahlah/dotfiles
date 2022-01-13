@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jakob-hohenstein@gmx.de
+	name = Jakob Hohenstein
